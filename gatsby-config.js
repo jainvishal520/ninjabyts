@@ -3,12 +3,13 @@ module.exports = {
     title: `Ninja Bytes`,
     author: {
       name: `Vishal Jain`,
-      summary: `who works at Paytm building useful things.`
+      summary: `, works at Paytm.`
     },
     description: `A blog for web Enthusiast and JS lovers`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
     social: {
-      twitter: `vjtinujain`
+      twitter: `vjtinujain`,
+      linkedin: `jainvishal2`
     }
   },
   plugins: [

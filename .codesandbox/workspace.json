@@ -4,6 +4,22 @@
       "views": [
         {
           "id": "codesandbox.browser"
+        },
+        {
+          "id": "codesandbox.browser",
+          "options": {
+            "port": 8000,
+            "url": "https://lg7se-8000.sse.codesandbox.io"
+          },
+          "closeable": true
+        },
+        {
+          "id": "codesandbox.browser",
+          "options": {
+            "port": 50400,
+            "url": "https://lg7se-50400.sse.codesandbox.io"
+          },
+          "closeable": true
         }
       ]
     },
