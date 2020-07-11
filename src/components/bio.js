@@ -60,7 +60,7 @@ const Bio = () => {
         Written by <strong>{author.name}</strong> {author.summary}
         {` `}
         <a
-          style={{ display: `inline-block`, height: 20 }}
+          style={{ display: `block`, height: 20, width: 20 }}
           href="https://www.linkedin.com/in/jainvishal2/"
         >
           <img

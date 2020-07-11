@@ -3,7 +3,7 @@ module.exports = {
     title: `Ninja Bytes`,
     author: {
       name: `Vishal Jain`,
-      summary: `, works at Paytm.`
+      summary: `| works at Paytm.`
     },
     description: `A blog for web Enthusiast and JS lovers`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
@@ -67,7 +67,7 @@ module.exports = {
         background_color: `#ffffff`,
         theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `content/assets/gatsby-icon.png`
+        icon: `content/assets/ninja-icon.png`
       }
     },
     `gatsby-plugin-react-helmet`,
